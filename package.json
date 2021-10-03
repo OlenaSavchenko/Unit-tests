@@ -1,0 +1,14 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "unit testing",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Olena Savchenko",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
